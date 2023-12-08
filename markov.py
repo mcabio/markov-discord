@@ -1,4 +1,5 @@
-"""A Markov chain generator that can tweet random messages."""
+"""
+A Markov chain generator that can tweet random messages."""
 
 import sys
 from random import choice
